@@ -9,7 +9,6 @@
 #include <sstream>
 
 using namespace std;
-
 #define N 2
 #define ND 100
 #define PI 3.14159
